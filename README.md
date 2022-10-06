@@ -2,8 +2,8 @@
 <h1 align="center">Hi, I'm Dênis Oliveira</h1>
 <h3 align="center">A passionate data engineer from Brazil.<br>Welcome to my Github page!</h3>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
-[![](https://visitcount.itsvg.in/api?id=deniswoliveira&icon=7&color=10)](https://visitcount.itsvg.in)
 </div>
+[![](https://visitcount.itsvg.in/api?id=deniswoliveira&icon=7&color=10)](https://visitcount.itsvg.in)
 
 - :electron:   I’m currently working on
   - Developing projects in Data Engineering
