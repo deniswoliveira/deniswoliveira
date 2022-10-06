@@ -64,4 +64,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/deniswoliveira/deniswoliveira/blob/output/github-contribution-grid-snake.svg)
