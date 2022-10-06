@@ -1,28 +1,28 @@
 <div align="center">
 <h1 align="center">Hi, I'm Dênis Oliveira</h1>
-<h3 align="center">A passionate data engineer from Brazil. Welcome to my Github page!</h3>
+<h3 align="center">A passionate data engineer from Brazil.<br>Welcome to my Github page!</h3>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
 </div>  
 
-- 🔭 I’m currently working on 
+- :electron:   I’m currently working on 
   - Developing projects in Data Engineering 
   - [Share my development and study process on my personal blog](https://medium.com/@denis-oliveira)
 
-- 🌱 I’m currently learning 
+- :student:  I’m currently learning 
   - Kubernetes
   - Apache Airflow
   - Apache Kafka
 
-- 📝 I regularly write articles on [my blog](https://medium.com/@denis-oliveira)
+- :fountain_pen:   I regularly write articles on [my blog](https://medium.com/@denis-oliveira)
 
-- 💬 Ask me about **Data Engineering | Apache Spark | Apache Nifi**
+- :grey_question:  Ask me about **Data Engineering | Apache Spark | Apache Nifi**
 
-### Blogs posts
+### :newspaper_roll:	 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Uma breve introdução ao Apache NiFi](https://denis-oliveira.medium.com/uma-breve-introdu%C3%A7%C3%A3o-ao-apache-nifi-e50aa6dc7105?source=rss-2112f34bb6fb------2)
 <!-- BLOG-POST-LIST:END -->
 
-### 🌐 Socials:
+### :earth_americas:   Find Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deniswoliveira)
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@denis-oliveira) 
