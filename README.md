@@ -16,6 +16,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Uma breve introdução ao Apache NiFi](https://denis-oliveira.medium.com/uma-breve-introdu%C3%A7%C3%A3o-ao-apache-nifi-e50aa6dc7105?source=rss-2112f34bb6fb------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌐 Socials:
