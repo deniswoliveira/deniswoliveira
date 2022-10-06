@@ -2,6 +2,7 @@
 <h1 align="center">Hi, I'm Dênis Oliveira</h1>
 <h3 align="center">A passionate data engineer from Brazil.<br>Welcome to my Github page!</h3>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
+[![](https://visitcount.itsvg.in/api?id=deniswoliveira&icon=7&color=10)](https://visitcount.itsvg.in)
 </div>
 
 - :electron:   I’m currently working on
@@ -58,11 +59,11 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=deniswoliveira&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deniswoliveira&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deniswoliveira&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=deniswoliveira&icon=7&color=10)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deniswoliveira&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+
 
 ### ✍️ Some Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/deniswoliveira/deniswoliveira/blob/output/github-contribution-grid-snake.svg)
