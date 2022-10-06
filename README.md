@@ -1,5 +1,8 @@
+<div align="center">
 <h1 align="center">Hi, I'm Dênis Oliveira</h1>
 <h3 align="center">A passionate data engineer from Brazil. Welcome to my Github page!</h3>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
+</div>  
 
 - 🔭 I’m currently working on 
   - Developing projects in Data Engineering 
