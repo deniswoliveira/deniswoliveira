@@ -19,6 +19,7 @@
 
 ### :newspaper_roll:	 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache Spark: O melhor amigo do engenheiro de dados.](https://denis-oliveira.medium.com/apache-spark-o-melhor-amigo-do-engenheiro-de-dados-64c57e5b00a8?source=rss-2112f34bb6fb------2)
 - [Uma breve introdução ao Apache NiFi](https://denis-oliveira.medium.com/uma-breve-introdu%C3%A7%C3%A3o-ao-apache-nifi-e50aa6dc7105?source=rss-2112f34bb6fb------2)
 <!-- BLOG-POST-LIST:END -->
 
