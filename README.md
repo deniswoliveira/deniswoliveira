@@ -19,11 +19,11 @@
 
 ### :newspaper_roll:	 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pipelines de dados com o poder mágico do Mage-AI](https://medium.com/data-hackers/pipelines-de-dados-com-o-poder-m%C3%A1gico-do-mage-ai-b5a46810e7be?source=rss-2112f34bb6fb------2)
 - [First Impressions of Mage: A Promising Tool for Data Engineering](https://denis-oliveira.medium.com/first-impressions-of-mage-a-promising-tool-for-data-engineering-b6fe25f2ba65?source=rss-2112f34bb6fb------2)
 - [Cracking the AWS Data Analytics Specialty Exam](https://denis-oliveira.medium.com/cracking-the-aws-data-analytics-specialty-exam-71f12dc5f813?source=rss-2112f34bb6fb------2)
 - [Destrinchando o Apache Spark — Parte 1](https://denis-oliveira.medium.com/destrinchando-o-apache-spark-parte-1-433f4458cce2?source=rss-2112f34bb6fb------2)
 - [Apache Spark: O melhor amigo do engenheiro de dados.](https://denis-oliveira.medium.com/apache-spark-o-melhor-amigo-do-engenheiro-de-dados-64c57e5b00a8?source=rss-2112f34bb6fb------2)
-- [Uma breve introdução ao Apache NiFi](https://denis-oliveira.medium.com/uma-breve-introdu%C3%A7%C3%A3o-ao-apache-nifi-e50aa6dc7105?source=rss-2112f34bb6fb------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :earth_americas:   Find Me:
